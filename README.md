@@ -43,11 +43,3 @@ Unemployment is a key economic indicator that reflects the overall health of an 
 2. **Regional Disparities:** Significant variation exists among regions/states, highlighting areas that require prioritized economic relief.
 3. **Urban vs. Rural Dynamics:** Urban centers faced distinct structural employment challenges compared to rural regions during lockdown phases.
 
----
-
-## 🚀 How to Run
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/your-username/unemployment-analysis-python.git](https://github.com/your-username/unemployment-analysis-python.git)
-   cd unemployment-analysis-python
